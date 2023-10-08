@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamil Bajus</h1>
+I study IT Automation Systems at Wroclaw university of sciences and technology.
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **kamil.bajus@onet.pl**
